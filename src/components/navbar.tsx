@@ -67,9 +67,9 @@ export function StickyNavbar() {
       </Typography>
     </ul>
   );
-
+  // bg-[#b2ffe19a]
   return (
-    <Navbar className="sticky top-0 z-10 h-max max-w-full rounded-none py-2 px-4 lg:px-4 lg:py-0 bg-[#b2ffe19a]">
+    <Navbar className="sticky top-0 z-10 h-max max-w-full rounded-none py-2 px-4 lg:px-4 lg:py-0 ">
       <div className="flex items-center justify-between text-blue-gray-900">
         <div className="flex flex-row w-fit items-end mr-4 cursor-pointer py-1.5 font-medium">
           <Typography as="a" variant="h2" style={kavoon.style}>

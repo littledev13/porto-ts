@@ -77,19 +77,19 @@ function beranda() {
             <IconButton className="rounded  bg-transparent animate-[rotasi_4.2s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto shadow-none">
               <IconReact className="text-[#149eca] text-xl " />
             </IconButton>
-            <IconButton className="rounded bg-[#333333] hover:shadow-[#333333]/20 focus:shadow-[#333333]/20 active:shadow-[#333333]/10 animate-[rotasi_4.3s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
+            <IconButton className="rounded bg-transparent animate-[rotasi_4.3s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
               <IconCss className=" text-xl" />
             </IconButton>
-            <IconButton className="rounded bg-[#333333] hover:shadow-[#333333]/20 focus:shadow-[#333333]/20 active:shadow-[#333333]/10 animate-[rotasi_4.4s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
+            <IconButton className="rounded bg-black animate-[rotasi_4.4s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
               <IconExpress className="text-xl" />
             </IconButton>
-            <IconButton className="rounded bg-[#333333] hover:shadow-[#333333]/20 focus:shadow-[#333333]/20 active:shadow-[#333333]/10 animate-[rotasi_4.5s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
+            <IconButton className="rounded bg-transparent animate-[rotasi_4.5s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
               <IconLaravel className=" text-xl" />
             </IconButton>
-            <IconButton className="rounded bg-[#333333] hover:shadow-[#333333]/20 focus:shadow-[#333333]/20 active:shadow-[#333333]/10 animate-[rotasi_4.6s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
+            <IconButton className="rounded bg-transparent animate-[rotasi_4.6s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
               <IconMySql className=" text-xl" />
             </IconButton>
-            <IconButton className="rounded bg-[#333333] hover:shadow-[#333333]/20 focus:shadow-[#333333]/20 active:shadow-[#333333]/10 animate-[rotasi_4.7s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
+            <IconButton className="rounded bg-transparent animate-[rotasi_4.7s_linear_infinite] absolute top-0 right-0 left-0 bottom-0 m-auto">
               <IconNodeJs className=" text-xl" />
             </IconButton>
           </div>
